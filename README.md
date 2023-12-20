@@ -1,7 +1,5 @@
 # A simple Github Pages template for academic personal website.
 
-[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/senli1073.github.io/main/screenshot_full.png)](https://senli1073.github.io/)
-
 ## Introduction
 
 This is an academic personal website template based on bootstrap.
