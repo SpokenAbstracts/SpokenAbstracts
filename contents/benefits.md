@@ -1,8 +1,8 @@
 #### 1. Enhance Accessibility and Inclusivity:
-+ Spoken abstracts cater to individuals with diverse learning styles, making research content more accessible to auditory learners. By providing an audio component to abstracts, researchers can reach a broader audience, including those who may struggle with traditional text-based formats. This inclusivity contributes to a scientific community that is both diverse and actively engaged.
++ Spoken Abstracts accommodate individuals with diverse learning styles, making research content more accessible to auditory learners. By providing an audio component to abstracts, you can reach a broader audience, including those who may struggle with traditional text-based formats. 
 
-#### 2. Expand Effective Science Communication:
-+ Spoken abstracts serve as a powerful tool for science communication by combining visual and auditory elements. The combination of text, visuals, and a spoken narrative helps convey complex research concepts more comprehensively. This enhances the ability of researchers to effectively communicate their work to both expert colleagues and a wider audience, fostering a deeper understanding of the research.
+#### 2. Improve Your Science Communication:
++ Spoken Abstracts serve as a powerful tool for science communication by combining visual and auditory elements. The combination of text, visuals, and a spoken narrative helps convey complex research concepts more comprehensively. This enhances your ability to effectively communicate your work to both expert colleagues and a wider audience, fostering a deeper understanding of the research.
 
 #### 3. Increase Visibility and Collaboration Opportunities:
 + By transforming research paper abstracts into elegant videos, researchers can promote their work more effectively within academic circles. Spoken abstracts can be easily shared on various platforms, increasing the visibility of the research and potentially leading to more citations and collaborations with peers. This heightened visibility contributes to the overall dissemination of knowledge within the scientific community.
