@@ -1,4 +1,4 @@
-# The Spoken Abstracts Project Website
+# The 'Spoken Abstracts' Project Website
 
 ## Introduction
 
