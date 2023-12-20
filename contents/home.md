@@ -4,7 +4,7 @@ This is the Homepage for the Spoken Abstracts project.
 ### What is a Spoken Abstract?
 A Spoken Abstract is a short elegant video of your research paper abstract that narrates your text accompanied by upbeat music and subtle background visuals.
 
-## Example Spoken Abstract
+### Example Spoken Abstract
 [Link To Example On Youtube](TBC)
 
 ### How to get your Spoken Abstract?
