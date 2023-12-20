@@ -8,7 +8,7 @@ Spoken abstracts serve as a powerful tool for science communication by combining
 By transforming research paper abstracts into elegant videos, researchers can promote their work more effectively within academic circles. Spoken abstracts can be easily shared on various platforms, increasing the visibility of the research and potentially leading to more citations and collaborations with peers. This heightened visibility contributes to the overall dissemination of knowledge within the scientific community.
 
 #### 4. Engagement with the Public:
-Spoken abstracts provide an engaging medium to capture the attention of the public. By utilizing both audio and visual elements, researchers can facilitate the translation of complex scientific concepts into more digestible formats, allowing the general public to develop an interest in and better understand the significance of ongoing research.
+Spoken abstracts provide an engaging format to capture the attention of the public. By utilizing both audio and visual elements, researchers can promote complex scientific concepts beyond their usual academic ausience, allowing the general public to develop an interest in and better understand the significance of ongoing research.
 
 #### 5. Adaptation to Changing Communication Trends:
 In an era where digital content consumption is prevalent, spoken abstracts align with evolving communication trends. Researchers who embrace this multimedia approach demonstrate adaptability to the changing preferences of their audience. This modernization not only enhances the reach of the research but also positions scientists as contributors to the evolving landscape of effective science communication.
