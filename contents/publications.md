@@ -1,8 +1,14 @@
+#### Enhanced Accessibility and Inclusivity:
+Spoken abstracts cater to individuals with diverse learning styles, making research content more accessible to auditory learners. By providing an audio component to abstracts, researchers can reach a broader audience, including those who may struggle with traditional text-based formats. This inclusivity contributes to a more diverse and engaged scientific community.
 
-- *<strong><strong>Li, S.</strong></strong>, Yang, X., Cao, A., Wang, C., Liu, Y., Liu, Y., & Niu, Q. (2023). Seismogram Transformer: A generic deep learning backbone network for multiple earthquake monitoring tasks. arXiv preprint arXiv:2310.01037.* [[Paper]](https://arxiv.org/abs/2310.01037) [[Code]](https://github.com/senli1073/SeisT)
+#### Effective Science Communication:
+Spoken abstracts serve as a powerful tool for science communication by combining visual and auditory elements. The combination of text, visuals, and a spoken narrative helps convey complex research concepts more comprehensively. This enhances the ability of researchers to effectively communicate their work to both expert colleagues and a wider audience, fostering a deeper understanding of the research.
 
-- *Cao, A., Yang, X., Wang, C., <strong><strong>Li, S.</strong></strong>, Liu, Y., Dou, L. & Niu, Q. (2023). High-precision phase picking and automatic source locating method for seismicity in mines based on deep transfer learning.* [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+#### Increased Visibility and Collaboration Opportunities:
+By transforming research paper abstracts into elegant videos, researchers can promote their work more effectively within academic circles. Spoken abstracts can be easily shared on various platforms, increasing the visibility of the research and potentially leading to collaborations with peers. This heightened visibility contributes to the overall dissemination of knowledge within the scientific community.
 
-- *Cao, A., Liu, Y., Yang, X., <strong><strong>Li, S.</strong></strong>, Wang, C., Bai, X. & Liu, Y. (2022). Physical index and Data Fusion-Driven method for coal burst prediction in time sequence. Journal of China Coal Society.* [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+#### Engagement with the Public:
+Spoken abstracts provide an engaging medium to capture the attention of the public. By utilizing both audio and visual elements, researchers can create content that is not only informative but also captivating. This approach facilitates the translation of complex scientific concepts into more digestible formats, allowing the general public to develop an interest in and better understand the significance of ongoing research.
 
-- *Yang, X., Yu, X., Zhang, C., <strong><strong>Li, S.</strong></strong>, & Niu, Q. (2021). MineGPS: battery-free localization base station for coal mine environment. IEEE Communications Letters.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9433550)
+#### Adaptation to Changing Communication Trends:
+In an era where digital content consumption is prevalent, spoken abstracts align with evolving communication trends. Researchers who embrace this multimedia approach demonstrate adaptability to the changing preferences of their audience. This modernization not only enhances the reach of the research but also positions scientists as contributors to the evolving landscape of effective science communication.
