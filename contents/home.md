@@ -11,6 +11,6 @@ This is the Homepage for the Spoken Abstracts Project.
 + Simply submit you name, email address and research paper DOI in the form below:  
 + [Click Here To Order](https://forms.gle/g5er3GAKAdrHHaqNA)
 
-### Further Queries Or Questions
+### Further Queries or Questions
 + All feedback and suggestions are welcome.
 + Email me at john.james.research@gmail.com
