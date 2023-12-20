@@ -1,7 +1,7 @@
 #### 1. Enhance Accessibility and Inclusivity:
 > Spoken abstracts cater to individuals with diverse learning styles, making research content more accessible to auditory learners. By providing an audio component to abstracts, researchers can reach a broader audience, including those who may struggle with traditional text-based formats. This inclusivity contributes to a scientific community that is both diverse and actively engaged.
 
-#### 2. Effective Science Communication:
+#### 2. Expand Effective Science Communication:
 > Spoken abstracts serve as a powerful tool for science communication by combining visual and auditory elements. The combination of text, visuals, and a spoken narrative helps convey complex research concepts more comprehensively. This enhances the ability of researchers to effectively communicate their work to both expert colleagues and a wider audience, fostering a deeper understanding of the research.
 
 #### 3. Increase Visibility and Collaboration Opportunities:
