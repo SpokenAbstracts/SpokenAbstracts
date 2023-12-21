@@ -20,7 +20,7 @@ Absolutely! Spoken Abstracts are designed for digital sharing. Researchers can l
 Yes, Spoken Abstracts are an effective tool for science communication. By presenting research in an engaging and accessible format, Spoken Abstracts contribute to public understanding and appreciation of scientific advancements.
 
 #### 8. How much does a Spoken Abstract cost?
-There is no charge for generating the Spoken Abstract for your research paper or for making any corrections to the initial draft.  When you are happy with the final version, we do ask for a €5 contriubtion to support the project development. 
+There is no charge for generating the Spoken Abstract for your research paper or for making any revisions to the initial draft.  When you are happy with the final version, we kindly ask for a €5 contriubtion to support the project ongoing development. 
 
 #### 9. How can I order a Spoken Abstract for my research paper?
 Submit your name, email address and research paper DOI here: [ORDER FORM]
