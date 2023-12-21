@@ -8,7 +8,7 @@ This is the Homepage for the Spoken Abstracts Project.
 + [Click Here To See An Example](TBC)
 
 ### How to get your Spoken Abstract?
-+ Simply submit you name, email address and research paper DOI in the form below:  
++ Submit you name, email address and research paper DOI in the form below:  
 + [Click Here To Order](https://forms.gle/g5er3GAKAdrHHaqNA)
 
 ### Further Queries or Questions
