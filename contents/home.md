@@ -5,7 +5,7 @@ This is the Homepage for the Spoken Abstracts Project.
   
 
 ### What is a Spoken Abstract?
-A short elegant video of your research paper abstract that narrates your text accompanied by catchy, upbeat music and subtle, stylish, background visuals.  
+A short elegant video of your research paper abstract that narrates the text, sentence by sentence, accompanied by catchy, upbeat music and subtle, stylish, background visuals.  
 The current iteration of the Spoken Abstract Project is running until March 2024.  
 See an example Spoken Abstract on YouTube:  
 [Click Here To See An Example](TBC)
