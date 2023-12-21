@@ -1,21 +1,2 @@
 
-"Let your research speak!"
-
----
-  
-
-### What is a Spoken Abstract?
-A short elegant video of your research paper abstract that narrates the text, sentence by sentence, accompanied by catchy, upbeat music and subtle, stylish, background visuals.  
-The current iteration of the Spoken Abstract Project is running until March 2024.  
-See an example Spoken Abstract on YouTube below:  
-[[Click Here To See An Example Spoken Abstract]](TBC)
-
-  
-### How to get your Spoken Abstract?
-Submit you name, email address and research paper DOI in the form below:  
-[[Click Here To Order Your Spoken Abstract]](https://forms.gle/g5er3GAKAdrHHaqNA)
-
-  
-### Further Queries or Questions
-All feedback and suggestions are welcome.  
-Email me at john.james.research@gmail.com
+N/A
