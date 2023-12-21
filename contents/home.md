@@ -1,5 +1,5 @@
 
-This is the Homepage for the Spoken Abstracts Project.
+"Let your research speak!"
 
 ---
   
